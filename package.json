@@ -1,9 +1,22 @@
 {
+  "engines": {
+    "node": "20.14.0"
+  },
   "dependencies": {
     "axios": "^1.7.7",
     "ejs": "^3.1.10",
     "express": "^4.21.1",
     "form-data": "^4.0.1",
     "multer": "^1.4.5-lts.1"
-  }
+  },
+  "name": "plant-species-identification",
+  "version": "1.0.0",
+  "description": "This is one of the model of the KrushiMitra Project",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Tejas Sunil Surse , Afroz Pashu Shaikh",
+  "license": "ISC"
 }
