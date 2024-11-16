@@ -1,6 +1,6 @@
 # 🌱 Plant Species Identification App
 
-[![Project Demo](https://via.placeholder.com/900x300.png?text=Plant+Species+Identification+App)](https://plant-species-identification-zwez.onrender.com)  
+[![Project Demo](https://i.postimg.cc/PJ11Kjs5/Screenshot-2024-10-30-195436.png)  
 *Identify plant species with ease using AI-powered technology!*  
 
 🌐 **Live Demo**: [Plant Species Identification App](https://plant-species-identification-zwez.onrender.com)  
